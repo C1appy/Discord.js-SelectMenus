@@ -49,7 +49,7 @@ After this is done go to your main file (normally index.js) and paste this somew
 **Make sure to change** `./Handlers/SelectMenus` **to the path where you have it**
 
 
-Once done make a new folder in your main directory named `SelectMenus` and then add all your select menus value in there they can be in folders for keeping stuff neat.
+Once done make a new folder in your main directory named `SelectMenus` and then add all your Select Menu Values in there they can be in folders for keeping stuff neat.
 
 **To use this**
 
