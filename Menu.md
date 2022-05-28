@@ -44,9 +44,10 @@ module.exports = (client) => {
 
 After this is done go to your main file (normally index.js) and paste this somewhere
 
+`require(./Handlers/SelectMenus)(client);`
+
 **Make sure to change** `./Handlers/SelectMenus` **to the path where you have it**
 
-`require(./Handlers/SelectMenus)(client);`
 
 Once done make a new folder in your main directory named `SelectMenus` and then add all your select menus value in there they can be in folders for keeping stuff neat.
 
